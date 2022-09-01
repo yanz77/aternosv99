@@ -3,6 +3,6 @@
 {
 	"ip":"TheSUS.aternos.me",
 	"port": "30611",
-	"name": "Server",
-	"auto-night-skip":"true"
+	"name": "bot-Server",
+	"auto-night-skip":"false"
 }
